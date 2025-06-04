@@ -120,15 +120,4 @@ To replicate the analyses:
 
    Use Jupyter Notebook or any compatible environment to open and execute the `.ipynb` files.
 
-## 🤝 Contributing
-
-Contributions are welcome! If you have suggestions or improvements, feel free to fork the repository and submit a pull request.
-
-## 📄 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to customize this README further to align with your project's specifics and personal preferences.
 
